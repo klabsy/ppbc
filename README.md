@@ -11,3 +11,6 @@
 #version1.0
 
 目前停留在selenium方法未更新换代的程度
+
+# version2.0
+适配当前的selenium方法
